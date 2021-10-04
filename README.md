@@ -52,7 +52,7 @@ File | Contents
 
 * Noah Bailey
 * Ian Carroll
-* Aiden Clark
+* Aidan Clark
 * Nick Cusack
 * Madison Squires
 * Shane Williams
